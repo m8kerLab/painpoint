@@ -5,5 +5,5 @@
 - http://www.paulgraham.com/startupideas.html
 - https://medium.com/startup-grind/how-to-come-up-with-startup-ideas-that-are-worth-your-time-36cc54b53b5
 
-#m8kerLab Idea
+# m8kerLab Idea
 - https://kick-startups.blogspot.com/
