@@ -4,6 +4,6 @@
 # HOW TO GET STARTUP IDEAS
 - http://www.paulgraham.com/startupideas.html
 - https://medium.com/startup-grind/how-to-come-up-with-startup-ideas-that-are-worth-your-time-36cc54b53b5
+- https://en.wikipedia.org/wiki/Basic_research
 
-# m8kerLab Idea
-- https://kick-startups.blogspot.com/
+m8kerLab Idea : https://kick-startups.blogspot.com/
