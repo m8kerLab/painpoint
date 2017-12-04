@@ -8,3 +8,7 @@
 - http://www.nejm.org/ - Healthcare ?
 
 m8kerLab Idea : https://kick-startups.blogspot.com/
+
+ความท้าทาย ผลิตภัณฑ์ทางการแพทย์
+- เลือดเทียม
+- อวัยวะเทียม
