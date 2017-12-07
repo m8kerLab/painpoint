@@ -12,3 +12,6 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 ความท้าทาย ผลิตภัณฑ์ทางการแพทย์
 - เลือดเทียม
 - อวัยวะเทียม
+
+# IoT
+- IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
