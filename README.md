@@ -15,3 +15,7 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 
 # IoT
 - IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
+
+# คลังข้อมูล
+- คลังผลงานวิจัย กรมวิชาการเกษตร http://www.doa.go.th/research/index.php
+- Search ThaiLIS Digital Collection http://tdc.thailis.or.th/tdc/basic.php
