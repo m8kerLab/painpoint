@@ -8,6 +8,9 @@
 - http://www.nejm.org/ - Healthcare ?
 - https://phys.org/
 
+- https://angel.co/companies/trending
+- http://graphics.wsj.com/billion-dollar-club/
+
 m8kerLab Idea : https://kick-startups.blogspot.com/
 
 ความท้าทาย ผลิตภัณฑ์ทางการแพทย์
