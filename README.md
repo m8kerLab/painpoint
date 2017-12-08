@@ -20,3 +20,14 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 # คลังข้อมูล
 - คลังผลงานวิจัย กรมวิชาการเกษตร http://www.doa.go.th/research/index.php
 - Search ThaiLIS Digital Collection http://tdc.thailis.or.th/tdc/basic.php
+
+# องค์กรน่าทดลอง
+- 3M Ventures https://www.3m.com/3M/en_US/company-us/about-3m/3m-ventures/
+- Unilever Ventures http://www.unileverventures.com/
+
+# Startup Jobs
+- https://www.techinasia.com/jobs
+- https://www.linkedin.com/company/startup-jobs-asia
+- https://e27.co/jobs
+- https://angel.co/asia/jobs
+- http://startupjobs.asia/
