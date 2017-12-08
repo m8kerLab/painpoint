@@ -34,7 +34,6 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 
 # Startup Jobs
 - https://www.techinasia.com/jobs
-- https://www.linkedin.com/company/startup-jobs-asia
 - https://e27.co/jobs
 - https://angel.co/asia/jobs
 - http://startupjobs.asia/
