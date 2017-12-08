@@ -11,8 +11,8 @@
 m8kerLab Idea : https://kick-startups.blogspot.com/
 
 ความท้าทาย ผลิตภัณฑ์ทางการแพทย์
-- เลือดเทียม
-- อวัยวะเทียม
+- เลือดเทียม https://www.google.co.th/search?q=latest+technology+of+artificial+blood
+- อวัยวะเทียม https://www.google.co.th/search?q=latest+technology+of+artificial+organ
 
 # IoT ideas
 - IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
