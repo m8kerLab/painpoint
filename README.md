@@ -27,6 +27,7 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 # องค์กรน่าทดลอง
 - 3M Ventures https://www.3m.com/3M/en_US/company-us/about-3m/3m-ventures/
 - Unilever Ventures http://www.unileverventures.com/
+- HP Tech Ventures http://www8.hp.com/us/en/hp-techventures/index.html
 
 # Startup Jobs
 - https://www.techinasia.com/jobs
