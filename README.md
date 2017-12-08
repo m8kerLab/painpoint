@@ -34,3 +34,6 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 - https://e27.co/jobs
 - https://angel.co/asia/jobs
 - http://startupjobs.asia/
+
+# ระบบจดทะเบียนนิติบุคคลทางอิเล็กทรอนิกส์ (e-Registration)
+- https://ereg.dbd.go.th/ERegistMemberWeb/nonmemberpages/home.xhtml
