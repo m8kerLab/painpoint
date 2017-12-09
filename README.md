@@ -1,6 +1,6 @@
 # painpoint 
 ร่วมเผยแพร่ Pain Point เพื่อกระตุ้น ท้าทาย เพื่อเป็นโจทย์ให้หาทางแก้ไข ขอเรียนเชิญทุกท่านที่พบเจอ pain point แล้วไม่อยากแก้เองแต่คิดว่าถ้ามีคนแก้ได้จะเป็นประโยชน์ต่อส่วนรวมมาก ร่วมส่ง PR มาแบ่งปันกันครับ
-
+- What's a Pain Point? https://www.google.co.th/search?q=what+is+a+pain+point
 - So What Exactly is 'Deep Technology'? https://www.linkedin.com/pulse/so-what-exactly-deep-technology-swati-chaturvedi/
 
 # HOW TO GET STARTUP IDEAS
