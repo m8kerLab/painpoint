@@ -1,7 +1,7 @@
 # painpoint 
 ร่วมเผยแพร่ Pain Point เพื่อกระตุ้น ท้าทาย เพื่อเป็นโจทย์ให้หาทางแก้ไข ขอเรียนเชิญทุกท่านที่พบเจอ pain point แล้วไม่อยากแก้เองแต่คิดว่าถ้ามีคนแก้ได้จะเป็นประโยชน์ต่อส่วนรวมมาก ร่วมส่ง PR มาแบ่งปันกันครับ
 - What's a Pain Point? https://www.google.co.th/search?q=what+is+a+pain+point
-- So What Exactly is 'Deep Technology'? https://www.linkedin.com/pulse/so-what-exactly-deep-technology-swati-chaturvedi/
+- Deep Technology ? https://www.linkedin.com/pulse/so-what-exactly-deep-technology-swati-chaturvedi/
 
 # HOW TO GET STARTUP IDEAS
 - http://www.paulgraham.com/startupideas.html
@@ -15,9 +15,11 @@
 
 m8kerLab Idea : https://kick-startups.blogspot.com/
 
-ความท้าทาย ผลิตภัณฑ์ทางการแพทย์
+# ความก้าวหน้าของ
 - เลือดเทียม https://www.google.co.th/search?q=latest+technology+of+artificial+blood
 - อวัยวะเทียม https://www.google.co.th/search?q=latest+technology+of+artificial+organ
+- แบตเตอรี่ https://www.google.co.th/search?q=latest+battery+technology
+- หุ่นยนต์ https://spectrum.ieee.org/robotics
 
 # IoT ideas
 - IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
