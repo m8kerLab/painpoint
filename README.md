@@ -1,7 +1,10 @@
-# painpoint 
+# Let's share some Pain Point,so someone may fix them for you.
 ร่วมเผยแพร่ Pain Point เพื่อกระตุ้น ท้าทาย เพื่อเป็นโจทย์ให้หาทางแก้ไข ขอเรียนเชิญทุกท่านที่พบเจอ pain point แล้วไม่อยากแก้เองแต่คิดว่าถ้ามีคนแก้ได้จะเป็นประโยชน์ต่อส่วนรวมมาก ร่วมส่ง PR มาแบ่งปันกันครับ
 - What's a Pain Point? https://www.google.co.th/search?q=what+is+a+pain+point
 - Deep Technology ? https://www.linkedin.com/pulse/so-what-exactly-deep-technology-swati-chaturvedi/
+
+# Social Media Account Pain Point Publisher
+- TBC
 
 # HOW TO GET STARTUP IDEAS
 - http://www.paulgraham.com/startupideas.html
@@ -14,6 +17,12 @@
 - http://graphics.wsj.com/billion-dollar-club/
 
 m8kerLab Idea : https://kick-startups.blogspot.com/
+
+# Grand Challeges
+- https://www.xprize.org
+- https://www.darpa.mil
+- https://breakthroughprize.org
+- https://breakthroughinitiatives.org
 
 # ความก้าวหน้าของ
 - เลือดเทียม https://www.google.co.th/search?q=latest+technology+of+artificial+blood
