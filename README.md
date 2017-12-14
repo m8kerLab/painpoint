@@ -1,7 +1,10 @@
-# Let's share some Pain Point,so someone may fix them for you.
+### Let's share some Pain Point, so that someone may fix them for you.
 ร่วมเผยแพร่ Pain Point เพื่อกระตุ้น ท้าทาย เพื่อเป็นโจทย์ให้หาทางแก้ไข ขอเรียนเชิญทุกท่านที่พบเจอ pain point แล้วไม่อยากแก้เองแต่คิดว่าถ้ามีคนแก้ได้จะเป็นประโยชน์ต่อส่วนรวมมาก ร่วมส่ง PR มาแบ่งปันกันครับ
 - What's a Pain Point? https://www.google.co.th/search?q=what+is+a+pain+point
 - Deep Technology ? https://www.linkedin.com/pulse/so-what-exactly-deep-technology-swati-chaturvedi/
+
+# TRENDS
+- IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
 
 # Social Media Account Pain Point Publisher
 - TBC
@@ -30,8 +33,6 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 - แบตเตอรี่ https://www.google.co.th/search?q=latest+battery+technology
 - หุ่นยนต์ https://spectrum.ieee.org/robotics
 
-# IoT ideas
-- IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
 
 # คลังข้อมูล
 - คลังผลงานวิจัย กรมวิชาการเกษตร http://www.doa.go.th/research/index.php
