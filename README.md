@@ -3,7 +3,7 @@
 - What's a Pain Point? https://www.google.co.th/search?q=what+is+a+pain+point
 - Deep Technology ? https://www.linkedin.com/pulse/so-what-exactly-deep-technology-swati-chaturvedi/
 
-#Pain Point
+# Pain Point
 - need autonomous toilet cleaner, too lazy to do it LOL
 
 # TRENDS
