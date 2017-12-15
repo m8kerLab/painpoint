@@ -6,6 +6,9 @@
 # TRENDS
 - IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
 
+# NEWS
+- http://news.ycombinator.com/
+
 # Social Media Account Pain Point Publisher
 - TBC
 
@@ -22,6 +25,7 @@
 m8kerLab Idea : https://kick-startups.blogspot.com/
 
 # Grand Challeges
+- https://grandchallenges.org
 - https://www.xprize.org
 - https://www.darpa.mil
 - https://breakthroughprize.org
