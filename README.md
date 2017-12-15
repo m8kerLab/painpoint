@@ -5,6 +5,7 @@
 
 # TRENDS
 - IoT + Machine Learning สำหรับงาน Preventive Maintenance / สุขภาพ
+- Cultured meat, clean meat or vitro meat
 
 # NEWS
 - http://news.ycombinator.com/
@@ -25,7 +26,7 @@
 m8kerLab Idea : https://kick-startups.blogspot.com/
 
 # Grand Challeges
-- https://grandchallenges.org
+- https://en.wikipedia.org/wiki/Grand_Challenges
 - https://www.xprize.org
 - https://www.darpa.mil
 - https://breakthroughprize.org
