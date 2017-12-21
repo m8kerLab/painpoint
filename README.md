@@ -45,6 +45,7 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 # คลังข้อมูล
 - คลังผลงานวิจัย กรมวิชาการเกษตร http://www.doa.go.th/research/index.php
 - Search ThaiLIS Digital Collection http://tdc.thailis.or.th/tdc/basic.php
+- ฐานข้อมูลการประเมินเทคโนโลยีด้านสุขภาพในประเทศไทย http://db.hitap.net/
 
 # VC น่าทดลอง
 - 3M Ventures https://www.3m.com/3M/en_US/company-us/about-3m/3m-ventures/
