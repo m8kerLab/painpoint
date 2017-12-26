@@ -52,6 +52,7 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 - Unilever Ventures http://www.unileverventures.com/
 - HP Tech Ventures http://www8.hp.com/us/en/hp-techventures/index.html
 - AIRBUS VENTURES http://www.airbusventures.vc/
+- SAMSUNG NEXT http://samsungnext.com/our-approach/
 
 # Startup Jobs
 - https://www.techinasia.com/jobs
