@@ -54,6 +54,16 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 - AIRBUS VENTURES http://www.airbusventures.vc/
 - SAMSUNG NEXT http://samsungnext.com/our-approach/
 
+# Pre-Seed VC
+This is earliest stage, when there is almost nothing but ideas and where the startup, most of the times, is not even formed.
+https://www.google.co.th/search?q=Pre-SEED+Ventures
+
+- http://www.creativethinking.ventures
+- https://evp.vc/
+- www.systemone.vc
+- https://forwardpartners.com/
+- https://pioneers.io/ventures
+
 # Startup Jobs
 - https://www.techinasia.com/jobs
 - https://e27.co/jobs
