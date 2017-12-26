@@ -20,7 +20,7 @@
 - http://www.paulgraham.com/startupideas.html
 - https://medium.com/startup-grind/how-to-come-up-with-startup-ideas-that-are-worth-your-time-36cc54b53b5
 - https://en.wikipedia.org/wiki/Basic_research
-- http://www.nejm.org/ - Healthcare ?
+- http://www.nejm.org/ - Medical / Healthcare ?
 - https://phys.org/
 - https://www.crunchbase.com/
 - https://angel.co/companies/trending
@@ -34,6 +34,7 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 - https://www.darpa.mil
 - https://breakthroughprize.org
 - https://breakthroughinitiatives.org
+- http://www.b-t.energy/
 
 # ความก้าวหน้าของ
 - เลือดเทียม https://www.google.co.th/search?q=latest+technology+of+artificial+blood
