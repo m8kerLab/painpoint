@@ -54,6 +54,8 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 - HP Tech Ventures http://www8.hp.com/us/en/hp-techventures/index.html
 - AIRBUS VENTURES http://www.airbusventures.vc/
 - SAMSUNG NEXT http://samsungnext.com/our-approach/
+- Shell Foundation http://www.shellfoundation.org/Our-Focus.aspx
+- Alibaba Entrepreneurs Fund http://www.ent-fund.org/en/global/home
 
 # Pre-Seed VC
 This is earliest stage, when there is almost nothing but ideas and where the startup, most of the times, is not even formed.
