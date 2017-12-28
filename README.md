@@ -49,6 +49,8 @@ m8kerLab Idea : https://kick-startups.blogspot.com/
 - ฐานข้อมูลการประเมินเทคโนโลยีด้านสุขภาพในประเทศไทย http://db.hitap.net/
 
 # VC น่าทดลอง
+- Idealab https://www.idealab.com ,
+  https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed/transcript?language=th
 - 3M Ventures https://www.3m.com/3M/en_US/company-us/about-3m/3m-ventures/
 - Unilever Ventures http://www.unileverventures.com/
 - HP Tech Ventures http://www8.hp.com/us/en/hp-techventures/index.html
