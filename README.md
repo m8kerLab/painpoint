@@ -12,6 +12,7 @@
 
 # NEWS
 - http://news.ycombinator.com/
+- https://www.google.co.th/search?q=latest+news+quantum+computers
 
 # Social Media Account Pain Point Publisher
 - TBC
