@@ -2,6 +2,7 @@
 ร่วมเผยแพร่ Pain Point เพื่อกระตุ้น ท้าทาย เพื่อเป็นโจทย์ให้หาทางแก้ไข ขอเรียนเชิญทุกท่านที่พบเจอ pain point แล้วไม่อยากแก้เองแต่คิดว่าถ้ามีคนแก้ได้จะเป็นประโยชน์ต่อส่วนรวมมาก ร่วมส่ง PR มาแบ่งปันกันครับ
 - What's a Pain Point? https://www.google.co.th/search?q=what+is+a+pain+point
 - Deep Technology ? https://www.linkedin.com/pulse/so-what-exactly-deep-technology-swati-chaturvedi/
+- Deep Learning frameworks https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750
 
 # Pain Point
 - need autonomous toilet cleaner, too lazy to do it LOL
