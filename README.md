@@ -16,7 +16,8 @@
 - https://www.google.co.th/search?q=latest+news+quantum+computers
 
 # Social Media Account Pain Point Publisher
-- TBC
+- https://www.linkedin.com/in/tomfgoodwin/
+
 
 # HOW TO GET STARTUP IDEAS
 - http://www.paulgraham.com/startupideas.html
